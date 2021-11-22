@@ -15,7 +15,7 @@ To create a user account:
      1. **First Name**
      1. **Last Name**
      1. **Primary Email**
-     1. **Username** - the default for this is set in Organization Preferences in the Organization profile.
+     1. **Username** - this defaults to the primary email address.
      1. **Password** - the default for this is set in Organization Preferences in the Organization profile.
 1. Verify that the student is being added to the correct **Organization** and **Time Zone**. These default to match those of the person creating the account.
 1. Click **Save**.
