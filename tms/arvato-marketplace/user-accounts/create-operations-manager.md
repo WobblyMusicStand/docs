@@ -15,7 +15,6 @@ To set up a new Operations Manager account:
      - **First Name**
      - **Last Name**
      - **Primary Email**
-     - **User Name**
      - **Password**
 1. Click the **Roles** tab and click **+ Assign Role**.
 1. This will open the Choose User Role dialog box. Select the **Operations Manager – Subscription Centers** role and click **OK**.
